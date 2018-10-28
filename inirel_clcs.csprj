@@ -1,0 +1,78 @@
+<codestructure version="5.14">
+<phptree>
+<treenode node="core/libs/classes/JStartSite.class.php;PHP:PHP Include;E:\OSPanel\domains\inirel\NewFile.php;f14;1;52;1;;E:\OSPanel\domains\inirel\index.php;f14;1;52;1;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="JCONFIG;PHP:PHP Word;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f19;38;26;38;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f19;42;26;42;;;;vpos;;v;;r$this-&gt;arrIni;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_BIT;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;4;15;4;;E:\OSPanel\domains\inirel\core\const.php;f8;4;15;4;;;;vpos;;v;;r&#10;Description&#10;     ;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_BYTE;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;5;16;5;;E:\OSPanel\domains\inirel\core\const.php;f8;5;16;5;;;;vpos;;v;;rONE_BIT * 8;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_Gb;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;8;14;8;;E:\OSPanel\domains\inirel\core\const.php;f8;8;14;8;;;;vpos;;v;;rpow(2, 30;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_Kb;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;6;14;6;;E:\OSPanel\domains\inirel\core\const.php;f8;6;14;6;;;;vpos;;v;;rpow(2, 10;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_Mb;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;7;14;7;;E:\OSPanel\domains\inirel\core\const.php;f8;7;14;7;;;;vpos;;v;;rpow(2, 20;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="ONE_Tb;PHP:PHP Word;E:\OSPanel\domains\inirel\core\NewFile.php;f8;9;14;9;;E:\OSPanel\domains\inirel\core\const.php;f8;9;14;9;;;;vpos;;v;;rpow(2, 40;;d-1,-1;;b0,0;;m">
+</treenode>
+<treenode node="JDbug;PHP:Class Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f1;3;2;149;;;;vpos;;v;;r;;d13,3;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f9;18;3;29;;;;vpos;;v;;r;;d42,18;;b1,0;;mmixedVar;;p">
+</treenode>
+<treenode node="__destruct;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f9;147;3;148;;;;vpos;;v;;r;;d32,147;;b1,0;;m">
+</treenode>
+<treenode node="dmp;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f9;31;3;33;;;;vpos;;v;;r;;d34,31;;b1,0;;mvar;;p">
+</treenode>
+<treenode node="garbage;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;143;3;145;;;;vpos;;v;;r;;d30,143;;b3,0;;m">
+</treenode>
+<treenode node="isArray;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;115;3;124;;;;vpos;;v;;r;;d30,115;;b3,0;;m">
+</treenode>
+<treenode node="isBoolean;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;89;3;92;;;;vpos;;v;;r;;d32,89;;b3,0;;m">
+</treenode>
+<treenode node="isDouble;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;108;3;113;;;;vpos;;v;;r;;d31,108;;b3,0;;m">
+</treenode>
+<treenode node="isInteger;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;94;3;99;;;;vpos;;v;;r;;d32,94;;b3,0;;m">
+</treenode>
+<treenode node="isNull;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;138;3;141;;;;vpos;;v;;r;;d29,138;;b3,0;;m">
+</treenode>
+<treenode node="isObject;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;126;3;136;;;;vpos;;v;;r;;d31,126;;b3,0;;m">
+</treenode>
+<treenode node="isString;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;101;3;106;;;;vpos;;v;;r;;d31,101;;b3,0;;m">
+</treenode>
+<treenode node="menu;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f10;56;3;87;;;;vpos;;v;;r;;d27,56;;b3,0;;m">
+</treenode>
+<treenode node="resultMemory;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f16;39;3;44;;;;vpos;;v;;r;;d41,39;;b1,5;;m">
+</treenode>
+<treenode node="resultTime;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f16;50;3;54;;;;vpos;;v;;r;;d39,50;;b1,5;;m">
+</treenode>
+<treenode node="startMemory;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f16;35;3;37;;;;vpos;;v;;r;;d40,35;;b1,5;;m">
+</treenode>
+<treenode node="startTime;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php;f16;46;3;48;;;;vpos;;v;;r;;d38,46;;b1,5;;m">
+</treenode>
+</treenode>
+<treenode node="JError;PHP:Class Name;E:\OSPanel\domains\inirel\core\libs\classes\JError.class.php;f1;2;2;14;;;;vpos;;v;;r;;d14,2;;b0,0;;m">
+<treenode node="JErrorNumber;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JError.class.php;f16;6;3;13;;;;vpos;;v;;r;;d53,6;;b1,5;;merrorNumber;;p">
+</treenode>
+</treenode>
+<treenode node="JException;PHP:Class Name;E:\OSPanel\domains\inirel\core\libs\classes\JException.class.php;f1;1;2;3;;;;vpos;;vException;;c;;r;;d36,1;;b0,0;;m">
+</treenode>
+<treenode node="JRoute;PHP:Class Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f1;1;2;17;;;;vpos;;v;;r;;d14,1;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f9;6;3;8;;;;vpos;;v;;r;;d32,6;;b1,0;;m">
+</treenode>
+<treenode node="getRoute;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f10;10;3;16;;;;vpos;;v;;r;;d30,10;;b3,0;;m">
+</treenode>
+</treenode>
+<treenode node="JStartSite;PHP:Class Name;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f1;2;2;42;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f1;2;2;45;;;;vpos;;v;;r;;d18,2;;b0,0;;m">
+<treenode node="__construct;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f9;8;3;12;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f9;9;3;16;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f9;9;3;16;;;;vpos;;v;;r;;d63,9;;b1,0;;miniFilePath;;ppathToConstFile;;p">
+</treenode>
+<treenode node="autoLoadClass;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f10;14;3;20;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f10;18;3;24;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f10;18;3;28;;;;vpos;;v;;r;;d36,18;;b3,0;;m">
+</treenode>
+<treenode node="constSite;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f10;26;3;28;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f10;30;3;32;;;;vpos;;v;;r;;d32,30;;b3,0;;m">
+</treenode>
+<treenode node="JConfig;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f10;26;3;32;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f10;34;3;40;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f10;41;3;43;;;;vpos;;v;;r;;d29,41;;b3,0;;m">
+</treenode>
+<treenode node="startConfig;PHP:Function Name;E:\OSPanel\domains\inirel\core\libs\classes\NewFile.php;f10;22;3;24;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class&apos;.php;f10;30;3;32;;E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php;f10;34;3;39;;;;vpos;;v;;r;;d34,34;;b3,0;;m">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>

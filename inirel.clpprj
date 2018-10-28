@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="E:\OSPanel\domains\inirel\inirel.clpprj">
+	<settings><PM_URL><![CDATA[E:/OSPanel/domains/web.site/]]></PM_URL><PM_HOME_URL><![CDATA[E:/OSPanel/domains/web.site/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="E:\OSPanel\domains\inirel\index.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\config.ini"/>
+		<file name="E:\OSPanel\domains\inirel\core\const.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JError.class.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JException.class.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JDb.class.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JRoute.class.php"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JStartSite.class.php" crc="1540594236"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JRoute.class.php" crc="1540681337"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JException.class.php" crc="1540593582"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JError.class.php" crc="1540334400"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JDbug.class.php" crc="1540678015"/>
+		<file name="E:\OSPanel\domains\inirel\core\libs\classes\JDb.class.php" crc="1540678136"/>
+		<file name="E:\OSPanel\domains\inirel\core\const.php" crc="1540329149"/>
+		<file name="E:\OSPanel\domains\inirel\core\config.ini" crc="1540678944"/>
+		<file name="E:\OSPanel\domains\inirel\index.php" crc="1540678931"/>
+	</filescache>
+</project>
